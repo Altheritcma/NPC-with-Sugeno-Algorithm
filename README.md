@@ -1,2 +1,2 @@
 # NPC with Sugeno Algorithm
-I am create 2D game NPC enemy with Fuzzy Sugeno algorithm on unity engine
+I am create simple 2D game NPC enemy with Fuzzy Sugeno algorithm on unity engine
