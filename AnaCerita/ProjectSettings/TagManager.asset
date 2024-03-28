@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Enemy
+  - ExplosionFX
+  - BombPickup
+  - Bullet
+  - HealthBar
+  - ground
+  - Obstacle
+  - Ground
+  - Point1
+  - Point4
+  - Point2
+  - Point3
+  - Point5
+  - Food
+  - Point6
+  - BanaspatiBoss
+  - Boss
+  - Point7
+  - PointJumpBack
+  - Wall
+  - Point8
+  - Point9
+  - Tuyul
+  - Banaspati
+  - Kebleg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Ground
+  - Boss
+  - Enemy
+  - BanaspatiBoss
+  - Point 1
+  - Point 2
+  - Point 3
+  - Point 4
+  - Point 5
+  - Point 6
+  - Point 7
+  - PointJumpBack
+  - Wall
+  - Point 8
+  - Point 9
+  - Tuyul
+  - StopPoint
+  - Banaspati
+  - Kebleg
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

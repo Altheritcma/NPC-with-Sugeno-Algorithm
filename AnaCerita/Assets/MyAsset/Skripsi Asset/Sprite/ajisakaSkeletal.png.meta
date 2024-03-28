@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: f4b384bb197d5d247a60c5adf3e59761
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ajisakaSkeletal_Badan
+  - first:
+      213: 21300002
+    second: ajisakaSkeletal_Head
+  - first:
+      213: 21300004
+    second: ajisakaSkeletal_tangan_L
+  - first:
+      213: 21300006
+    second: ajisakaSkeletal_LenganA_L
+  - first:
+      213: 21300008
+    second: ajisakaSkeletal_LenganA_R
+  - first:
+      213: 21300010
+    second: ajisakaSkeletal_Paha_R
+  - first:
+      213: 21300012
+    second: ajisakaSkeletal_Paha_L
+  - first:
+      213: 21300014
+    second: ajisakaSkeletal_Betis_L
+  - first:
+      213: 21300016
+    second: ajisakaSkeletal_Kepala
+  - first:
+      213: 21300018
+    second: ajisakaSkeletal_Betis_R
+  - first:
+      213: 21300020
+    second: ajisakaSkeletal_LenganB_R
+  - first:
+      213: 21300022
+    second: ajisakaSkeletal_LenganB_L
+  - first:
+      213: 21300024
+    second: ajisakaSkeletal_Tangan_R
+  - first:
+      213: 21300026
+    second: ajisakaSkeletal_Tangan_L
+  - first:
+      213: 21300028
+    second: ajisakaSkeletal_Kaki_L
+  - first:
+      213: 21300030
+    second: ajisakaSkeletal_Kaki_R
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Badan
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 277
+        width: 88
+        height: 255
+      alignment: 9
+      pivot: {x: 0.47780105, y: 0.032694977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b735607511bb4a98c237a46a80cdf
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Kepala
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 451
+        width: 118
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5165548, y: 0.28294572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c8251bbc315e4497ae8602572dfea
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Betis_R
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 284
+        width: 44
+        height: 127
+      alignment: 9
+      pivot: {x: 0.52219874, y: 0.93069047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccca05729376cc4992d597ee614f5b9
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_LenganA_L
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 285
+        width: 49
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.93255836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c080d5c7c5292749a6a3521477b6152
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_LenganA_R
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 298
+        width: 49
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9255816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f91fc38d9a9294c8b05585d2ee9a20
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Paha_R
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 39
+        width: 76
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5128519, y: 0.9641953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc1613b343d77458f57e66a73e3ce9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Paha_L
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 39
+        width: 76
+        height: 202
+      alignment: 9
+      pivot: {x: 0.47429618, y: 0.94968927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe41d9117487fa4f90bafcc2b0b6e1f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Betis_L
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 108
+        width: 44
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.93838143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3d82b1a7921b4cb5d75e315962988
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_LenganB_R
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 159
+        width: 28
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43023247, y: 0.93012625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca23266faad36843938acb5ee9d1165
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_LenganB_L
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 164
+        width: 28
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43023247, y: 0.93012625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0f9aa49405c54bb2c8e288c916e39
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Tangan_R
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 107
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.49999884, y: 0.9021894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f04d833648784d997b59767b07b28
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Tangan_L
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 111
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.49999884, y: 0.8447351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ee0e82f994bc42b46175ed0be40fd
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Kaki_L
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 18
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.22093, y: 0.8711633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88879e3a708b25746ad859d8d795bcf5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajisakaSkeletal_Kaki_R
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 19
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.22093016, y: 0.910233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e875b4990b20d7b439d39531048040ad
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f339d9828f90fa245aec120afddfdb4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
